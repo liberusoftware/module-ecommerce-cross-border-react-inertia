@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-cross-border-react-inertia",
+  "capabilityKey": "planned:ecommerce:cross-border",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-cross-border-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/cross-border.md",
+  "presentationPlan": "projects/ecommerce/react/cross-border.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
